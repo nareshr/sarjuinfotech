@@ -60,13 +60,13 @@ function Footer() {
                 <p className="footer-title">Social Media</p>
                 <ul>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="#" > Github</a>
+                    <a target="_blank" rel="noreferrer" href="#0" > Github</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="#" > Twitter</a>
+                    <a target="_blank" rel="noreferrer" href="#0" > Twitter</a>
                   </li>
                   <li>
-                    <a target="_blank" rel="noreferrer" href="#"> Linkedin</a>
+                    <a target="_blank" rel="noreferrer" href="#0"> Linkedin</a>
                   </li>
                 </ul>
               </div>
