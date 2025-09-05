@@ -1,4 +1,4 @@
-import { Mail, Phone, Code, Globe, Smartphone } from "lucide-react";
+import { Mail, Code, Globe, Smartphone } from "lucide-react";
 
 export default function App() {
   return (
