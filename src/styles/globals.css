@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  ✅ Keep it clean for MVP
+  If you want animations later, we can add tailwind-animate plugin
+*/
